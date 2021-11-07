@@ -1,0 +1,45 @@
+,org_title,ref_title,doi
+0,Big transfer (bit): General visual representation learning,error,
+1,Aggregated residual transformations for deep neural networks,Aggregated Residual Transformations for Deep Neural Networks,10.1109/cvpr.2017.634
+2,Low-complexity single-image super-resolution based on nonnegative neighbor embedding,Low-Complexity Single-Image Super-Resolution based on Nonnegative Neighbor Embedding,10.5244/c.26.135
+3,Object detection combining recognition and segmentation,Object Detection Combining Recognition and Segmentation,10.1007/978-3-540-76386-4_17
+4,Feature pyramid networks for object detection,error,
+5,Big transfer (bit): General visual representation learning,error,
+6,Aggregated residual transformations for deep neural networks,Aggregated Residual Transformations for Deep Neural Networks,10.1109/cvpr.2017.634
+7,Low-complexity single-image super-resolution based on nonnegative neighbor embedding,error,
+8,Object detection combining recognition and segmentation,Object Detection Combining Recognition and Segmentation,10.1007/978-3-540-76386-4_17
+9,Feature pyramid networks for object detection,CR-FPN: channel relation feature pyramid network for object detection,10.1007/s11276-020-02391-3
+10,Delving deep into rectifiers: Surpassing human-level performance on imagenet classification,Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,10.1109/iccv.2015.123
+11,"Pytorch: An imperative style, high-performance deep learning library",error,
+12,A tutorial on the cross-entropy method,A Tutorial Introduction to the Cross-Entropy Method,10.1007/978-1-4757-4321-0_2
+13,Imagenet large scale visual recognition challenge,error,
+14,Single image super-resolution from transformed self-exemplars,Single image super-resolution from transformed self-exemplars,10.1109/cvpr.2015.7299156
+15,On single image scale-up using sparse-representations,error,
+16,A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,error,
+17,Single image super-resolution from transformed self-exemplars,Single image super-resolution from transformed self-exemplars,10.1109/cvpr.2015.7299156
+18,Accelerating the super-resolution convolutional neural network,Super-resolution Ultrasound Imaging Scheme Based on a Symmetric Series Convolutional Neural Network,10.36227/techrxiv.15066315.v1
+19,Deep laplacian pyramid networks for fast and accurate super-resolution,Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution,10.1109/cvpr.2017.618
+20,Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network,Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network,10.1109/cvpr.2016.207
+21,Enhanced deep residual networks for single image super-resolution,Enhanced Deep Residual Networks for Single Image Super-Resolution,10.1109/cvprw.2017.151
+22,SpineNet: Learning scale-permuted backbone for recognition and localization,SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization,10.1109/cvpr42600.2020.01161
+23,Cbnet: A novel composite backbone network architecture for object detection,CBNet: A Novel Composite Backbone Network Architecture for Object Detection,10.1609/aaai.v34i07.6834
+24,Simple copy-paste is a strong data augmentation method for instance segmentation,"Typing Tips, Copy/Paste, and Search",10.1007/978-1-4302-3498-2_4
+25,Hybrid task cascade for instance segmentation,Fish Image Instance Segmentation: An Enhanced Hybrid Task Cascade Approach,10.1109/icsc50631.2021.00058
+26,Path aggregation network for instance segmentation,Path Aggregation Network for Instance Segmentation,10.1109/cvpr.2018.00913
+27,Cascade r-cnn: Delving into high quality object detection,Cascade R-CNN: Delving Into High Quality Object Detection,10.1109/cvpr.2018.00644
+28,Focal loss for dense object detection,Focal Loss for Dense Object Detection,10.1109/iccv.2017.324
+29,Ssd: Single shot multibox detector,Barcode Detection and Classification using SSD (Single Shot Multibox Detector) Deep Learning Algorithm,10.2139/ssrn.3568499
+30,"YOLO9000: better, faster, stronger","YOLO9000: Better, Faster, Stronger",10.1109/cvpr.2017.690
+31,"You only look once: Unified, real-time object detection","An Overview of You Only Look Once: Unified, Real-Time Object Detection",10.22214/ijraset.2020.6098
+32,Faster r-cnn: Towards real-time object detection with region proposal networks,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,10.1109/tpami.2016.2577031
+33,Fast r-cnn,A fast method for particle picking in cryo-electron micrographs based on fast R-CNN,10.1063/1.4982020
+34,Rich feature hierarchies for accurate object detection and semantic segmentation,Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation,10.1109/cvpr.2014.81
+35,Efficientnet: Rethinking model scaling for convolutional neural networks,EfficientNet,10.1007/978-1-4842-6168-2_10
+36,Self-training with noisy student improves imagenet classification,Self-Training With Noisy Student Improves ImageNet Classification,10.1109/cvpr42600.2020.01070
+37,Sharpness-aware Minimization for Efficiently Improving Generalization,Improving generalization performance by information minimization,10.1109/icnn.1994.374153
+38,Meta pseudo labels,Meta Pseudo Labels,10.1109/cvpr46437.2021.01139
+39,Deep residual learning for image recognition,Deep Residual Learning for Image Recognition,10.1109/cvpr.2016.90
+40,Going deeper with convolutions,Going deeper with convolutions,10.1109/cvpr.2015.7298594
+41,Imagenet classification with deep convolutional neural networks,Deep Convolutional Spiking Neural Networks for Image Classification,10.18122/td.1782.boisestate
+42,Learning and transferring mid-level image representations using convolutional neural networks,Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks,10.1109/cvpr.2014.222
+43,Mask r-cnn,Brain Tumor Detection Using Mask R-CNN,10.5373/jardcs/v12sp8/20202506
